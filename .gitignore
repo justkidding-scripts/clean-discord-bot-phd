@@ -1,0 +1,60 @@
+# Environment and Secret Files
+.env
+*.env
+.env.local
+.env.backup*
+
+# Database Files
+*.db
+*.sqlite3
+clean_bot.db
+
+# Log Files
+*.log
+*.out
+clean_bot_output.log
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*-env/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+nohup.out
+
+# Research Data (keep private)
+.research_sessions/
+rag_data/
+files/
+
+# Service Files (system specific)
+*.service
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+models/
+data/large_datasets/
