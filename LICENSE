@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Clean Discord Bot for PhD Research
+Copyright (c) 2025 Clean Discord Bot for Research
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,18 +24,18 @@ SOFTWARE.
 
 ACADEMIC USE NOTICE:
 This software has been specifically designed for academic research environments.
-All cybersecurity, penetration testing, and security analysis features have been
+All cybersecurity, , and security analysis features have been
 intentionally removed to ensure safe use in educational settings.
 
 The software is intended for:
-- PhD research assistance
+- research assistance
 - Academic collaboration
 - Educational development environments
 - Research data management
 - Safe terminal operations
 
 NOT intended for:
-- Security testing or penetration testing
+- Security testing or
 - Network scanning or vulnerability assessment
 - Production security operations
 - Any malicious or unauthorized activities
